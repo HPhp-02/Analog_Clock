@@ -1,5 +1,4 @@
 setInterval(()=>{
-    console.log("Harshit");
      d = new Date();
      hours=d.getHours();
      minutes=d.getMinutes();
